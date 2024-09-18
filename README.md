@@ -38,3 +38,8 @@ So, when do we type a variable? If we declare the variable and do not initialize
 ```
 
 If we do not type a variable, then it is automatically typed as any, meaning it can receive any value, as it is in JavaScript.
+
+
+### Other TypeScript Functionalities
+This was a very quick introduction to TypeScript. The TypeScript documentation is a great place for learning all the other functionalities and to dive into the details of the topics we quickly covered in this chapter; it can be found at https://www.typescriptlang.org/docs/
+
